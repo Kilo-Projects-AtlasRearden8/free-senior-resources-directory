@@ -1,0 +1,15 @@
+{
+  "name": "free-senior-resources-directory",
+  "version": "1.0.0",
+  "description": "Free resources directory for seniors: benefits, tech classes, legal aid, health info, and discounts — Markdown + static HTML site with client-side search. Official links only, no affiliate links.",
+  "private": true,
+  "scripts": {
+    "test": "node scripts/verify.js",
+    "start": "python3 -m http.server 8000"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "license": "MIT"
+}

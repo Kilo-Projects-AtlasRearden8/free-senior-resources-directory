@@ -1,0 +1,334 @@
+{
+  "title": "Free Resources Directory for Seniors",
+  "subtitle": "Free benefits, tech classes, legal aid, health information, and discounts for seniors — grouped by category, official links only.",
+  "credits": "Published by Asdale Dynamics, LLC (Indiana, formed Oct 2026). Beginner-friendly AI education, books, and practical tools.",
+  "categories": [
+    { "id": "benefits", "label": "Benefits & assistance", "description": "Government benefits and aid programs seniors may qualify for." },
+    { "id": "tech-classes", "label": "Tech classes", "description": "Free technology classes and digital literacy help for seniors." },
+    { "id": "legal-aid", "label": "Legal aid", "description": "Free or low-cost legal help and information for older adults." },
+    { "id": "health-info", "label": "Health info", "description": "Free, trustworthy health information for seniors and caregivers." },
+    { "id": "discounts", "label": "Discounts & savings", "description": "Senior discounts and savings programs — free to look up." }
+  ],
+  "resources": [
+    {
+      "id": "ssa-retirement",
+      "name": "Social Security — Retirement & SSI Benefits",
+      "category": "benefits",
+      "cost": "Free",
+      "costDetail": "Free to apply; benefit amounts depend on work history and income",
+      "description": "Retirement benefits, disability benefits, and Supplemental Security Income (SSI) for seniors and people with limited income.",
+      "whoItHelps": "Workers 62+, people with disabilities, and low-income seniors (SSI)",
+      "howToAccess": "Create a free my Social Security account at ssa.gov to apply, check your statement, and manage benefits.",
+      "link": "https://www.ssa.gov/",
+      "tags": ["social security", "retirement", "SSI", "disability", "income", "federal"]
+    },
+    {
+      "id": "medicare",
+      "name": "Medicare",
+      "category": "benefits",
+      "cost": "Free",
+      "costDetail": "Free to enroll; some parts have premiums based on income",
+      "description": "Federal health insurance for people 65 and older, and younger people with disabilities.",
+      "whoItHelps": "Adults 65+ and people with qualifying disabilities",
+      "howToAccess": "Visit medicare.gov to learn about Part A, Part B, Part D, Medicare Advantage, and enrollment periods.",
+      "link": "https://www.medicare.gov/",
+      "tags": ["medicare", "health insurance", "65+", "federal", "enrollment"]
+    },
+    {
+      "id": "medicaid",
+      "name": "Medicaid",
+      "category": "benefits",
+      "cost": "Free",
+      "costDetail": "Free or low-cost health coverage based on income and state rules",
+      "description": "Health coverage for low-income adults, including seniors who qualify based on income and assets.",
+      "whoItHelps": "Low-income seniors and people with limited resources",
+      "howToAccess": "Apply through your state Medicaid agency or HealthCare.gov; medicaid.gov has state-by-state information.",
+      "link": "https://www.medicaid.gov/",
+      "tags": ["medicaid", "health coverage", "low income", "state", "federal"]
+    },
+    {
+      "id": "benefits-gov",
+      "name": "Benefits.gov — Benefit Finder",
+      "category": "benefits",
+      "cost": "Free",
+      "costDetail": "Free to use; no account required to browse",
+      "description": "Official U.S. government benefits questionnaire that matches you to programs you may qualify for.",
+      "whoItHelps": "Anyone looking for federal and state benefits",
+      "howToAccess": "Answer a few questions at benefits.gov to get a personalized list of benefit programs.",
+      "link": "https://www.benefits.gov/",
+      "tags": ["benefits finder", "government", "questionnaire", "federal", "state"]
+    },
+    {
+      "id": "eldercare-locator",
+      "name": "Eldercare Locator (Area Agency on Aging)",
+      "category": "benefits",
+      "cost": "Free",
+      "costDetail": "Free service; call or search online",
+      "description": "Connects older adults and caregivers to local services — transportation, meals, caregiving, and benefits counseling — through your Area Agency on Aging.",
+      "whoItHelps": "Seniors, caregivers, and family members",
+      "howToAccess": "Search by ZIP code at eldercare.acl.gov or call 1-800-677-1116.",
+      "link": "https://eldercare.acl.gov/",
+      "tags": ["eldercare", "area agency on aging", "local services", "caregiver", "hotline"]
+    },
+    {
+      "id": "snap",
+      "name": "SNAP (Food Assistance)",
+      "category": "benefits",
+      "cost": "Free",
+      "costDetail": "Free to apply; benefits issued monthly on an EBT card",
+      "description": "Supplemental Nutrition Assistance Program helps low-income seniors buy groceries.",
+      "whoItHelps": "Low-income seniors and households",
+      "howToAccess": "Apply through your state SNAP office; fns.usda.gov/snap explains eligibility and how to apply.",
+      "link": "https://www.fns.usda.gov/snap",
+      "tags": ["snap", "food assistance", "groceries", "EBT", "nutrition", "USDA"]
+    },
+    {
+      "id": "liheap",
+      "name": "LIHEAP (Energy Bill Assistance)",
+      "category": "benefits",
+      "cost": "Free",
+      "costDetail": "Free to apply; helps pay heating and cooling bills",
+      "description": "Low Income Home Energy Assistance Program helps eligible households pay home energy bills.",
+      "whoItHelps": "Low-income seniors and households with high energy costs",
+      "howToAccess": "Apply through your state LIHEAP office; benefits.gov/liheap has details.",
+      "link": "https://www.benefits.gov/liheap",
+      "tags": ["liheap", "energy assistance", "heating", "cooling", "utility bills"]
+    },
+    {
+      "id": "va-benefits",
+      "name": "VA Benefits for Veterans",
+      "category": "benefits",
+      "cost": "Free",
+      "costDetail": "Free to apply; some services have copays based on priority group",
+      "description": "Health care, disability compensation, pension, and burial benefits for veterans and their families.",
+      "whoItHelps": "Veterans, service members, and eligible family members",
+      "howToAccess": "Apply at va.gov or visit your local VA medical center or Vet Center.",
+      "link": "https://www.va.gov/",
+      "tags": ["veterans", "VA", "disability", "pension", "health care", "burial"]
+    },
+    {
+      "id": "senior-planet",
+      "name": "Senior Planet (AARP) — Free Tech Classes",
+      "category": "tech-classes",
+      "cost": "Free",
+      "costDetail": "Free online and in-person tech classes; no AARP membership required for many classes",
+      "description": "Free technology classes, workshops, and coaching designed for older adults — smartphones, video calling, online safety, and more.",
+      "whoItHelps": "Seniors learning to use technology",
+      "howToAccess": "Browse the class calendar at seniorplanet.org and register online.",
+      "link": "https://seniorplanet.org/",
+      "tags": ["tech classes", "digital literacy", "smartphone", "online safety", "AARP"]
+    },
+    {
+      "id": "gcfglobal",
+      "name": "GCFGlobal — Free Tech Tutorials",
+      "category": "tech-classes",
+      "cost": "Free",
+      "costDetail": "Completely free; no account needed",
+      "description": "Free tutorials on computers, email, internet basics, smartphones, and everyday tech skills, written in plain language.",
+      "whoItHelps": "Beginners of any age learning technology",
+      "howToAccess": "Go to gcfglobal.org and pick a topic — no sign-up required.",
+      "link": "https://edu.gcfglobal.org/",
+      "tags": ["tutorials", "computer basics", "email", "internet", "beginner"]
+    },
+    {
+      "id": "digitallearn",
+      "name": "DigitalLearn (Public Library Association)",
+      "category": "tech-classes",
+      "cost": "Free",
+      "costDetail": "Free courses; no library card required to browse",
+      "description": "Short, beginner-friendly courses on computer basics, internet safety, job skills, and more from the Public Library Association.",
+      "whoItHelps": "Adults new to computers and the internet",
+      "howToAccess": "Start a course at digitallearn.org — no account required to begin.",
+      "link": "https://www.digitallearn.org/",
+      "tags": ["digital literacy", "computer basics", "internet safety", "public library", "PLA"]
+    },
+    {
+      "id": "aarp-tek",
+      "name": "AARP TEK Workshops & Virtual Community Center",
+      "category": "tech-classes",
+      "cost": "Free",
+      "costDetail": "Free workshops; some events open to non-members",
+      "description": "Free technology workshops and online events for seniors on devices, apps, and staying connected.",
+      "whoItHelps": "Seniors and caregivers",
+      "howToAccess": "Find upcoming workshops at aarp.org/tek or the AARP Virtual Community Center.",
+      "link": "https://www.aarp.org/",
+      "tags": ["AARP", "workshops", "devices", "apps", "virtual community"]
+    },
+    {
+      "id": "lsc",
+      "name": "Legal Services Corporation — Find Legal Aid",
+      "category": "legal-aid",
+      "cost": "Free",
+      "costDetail": "Free or low-cost civil legal help for eligible clients",
+      "description": "Federally funded civil legal aid. Use the locator to find a legal aid office near you.",
+      "whoItHelps": "Low-income seniors and households",
+      "howToAccess": "Use the Find Legal Aid tool at lsc.gov to locate your nearest legal aid office.",
+      "link": "https://www.lsc.gov/",
+      "tags": ["legal aid", "civil law", "locator", "federal", "low income"]
+    },
+    {
+      "id": "lawhelp",
+      "name": "LawHelp.org — Free Legal Help Directory",
+      "category": "legal-aid",
+      "cost": "Free",
+      "costDetail": "Free to search; connects to free and low-cost legal aid",
+      "description": "State-by-state directory of free legal aid offices, self-help resources, and legal information.",
+      "whoItHelps": "People needing free or low-cost legal help",
+      "howToAccess": "Select your state at lawhelp.org to find local legal aid and self-help guides.",
+      "link": "https://www.lawhelp.org/",
+      "tags": ["legal aid directory", "self-help", "state", "free legal help"]
+    },
+    {
+      "id": "probono-net",
+      "name": "Pro Bono Net",
+      "category": "legal-aid",
+      "cost": "Free",
+      "costDetail": "Free to use",
+      "description": "Connects people to volunteer lawyers and free legal resources, including tools for seniors.",
+      "whoItHelps": "People who cannot afford a lawyer",
+      "howToAccess": "Search for free legal help and self-help tools at probono.net.",
+      "link": "https://www.probono.net/",
+      "tags": ["pro bono", "volunteer lawyers", "legal resources", "self-help"]
+    },
+    {
+      "id": "nelf",
+      "name": "National Elder Law Foundation",
+      "category": "legal-aid",
+      "cost": "Free",
+      "costDetail": "Free directory; lawyer consultation fees vary",
+      "description": "Certifies elder and special needs law attorneys. Use the directory to find a qualified elder law attorney near you.",
+      "whoItHelps": "Seniors and families planning for aging",
+      "howToAccess": "Search the certified attorney directory at nelf.org.",
+      "link": "https://www.nelf.org/",
+      "tags": ["elder law", "attorney directory", "special needs law", "certification"]
+    },
+    {
+      "id": "medlineplus",
+      "name": "MedlinePlus (NIH)",
+      "category": "health-info",
+      "cost": "Free",
+      "costDetail": "Completely free; no ads",
+      "description": "Trustworthy, easy-to-read health information from the National Library of Medicine — conditions, drugs, and wellness for seniors.",
+      "whoItHelps": "Seniors, caregivers, and anyone seeking health info",
+      "howToAccess": "Search conditions, medicines, and healthy aging topics at medlineplus.gov.",
+      "link": "https://medlineplus.gov/",
+      "tags": ["health information", "NIH", "medicines", "conditions", "senior health", "no ads"]
+    },
+    {
+      "id": "nia-nih",
+      "name": "National Institute on Aging (NIH)",
+      "category": "health-info",
+      "cost": "Free",
+      "costDetail": "Free publications and online info",
+      "description": "Free health information on aging, Alzheimer's, caregiving, exercise, and healthy living for older adults.",
+      "whoItHelps": "Older adults and caregivers",
+      "howToAccess": "Order free publications or read online at nia.nih.gov/health.",
+      "link": "https://www.nia.nih.gov/",
+      "tags": ["aging", "Alzheimer's", "caregiving", "healthy aging", "NIH", "publications"]
+    },
+    {
+      "id": "cdc",
+      "name": "CDC — Healthy Aging & Preventive Health",
+      "category": "health-info",
+      "cost": "Free",
+      "costDetail": "Free public health information",
+      "description": "Centers for Disease Control and Prevention guidance on vaccines, screenings, fall prevention, and healthy aging.",
+      "whoItHelps": "Seniors and caregivers",
+      "howToAccess": "Visit cdc.gov/aging for vaccines, screening schedules, and fall-prevention tips.",
+      "link": "https://www.cdc.gov/",
+      "tags": ["CDC", "vaccines", "screenings", "fall prevention", "public health"]
+    },
+    {
+      "id": "healthcare-gov",
+      "name": "HealthCare.gov — Marketplace & Medicaid",
+      "category": "health-info",
+      "cost": "Free",
+      "costDetail": "Free to browse and apply; plan costs vary by income",
+      "description": "Official health insurance marketplace where you can compare plans and check Medicaid/CHIP eligibility.",
+      "whoItHelps": "People shopping for health insurance, including early retirees",
+      "howToAccess": "Apply or browse plans at healthcare.gov during Open Enrollment or a Special Enrollment Period.",
+      "link": "https://www.healthcare.gov/",
+      "tags": ["health insurance", "marketplace", "Medicaid", "CHIP", "enrollment"]
+    },
+    {
+      "id": "aarp-discounts",
+      "name": "AARP Member Discounts & Advantages",
+      "category": "discounts",
+      "cost": "Free",
+      "costDetail": "Directory is free; AARP membership required to use most discounts",
+      "description": "Member-only discounts on travel, dining, shopping, health, and entertainment.",
+      "whoItHelps": "AARP members (age 50+)",
+      "howToAccess": "Browse the discount directory at aarp.org/advantages.",
+      "link": "https://www.aarp.org/advantages/",
+      "tags": ["AARP", "member discounts", "travel", "dining", "shopping", "50+"]
+    },
+    {
+      "id": "nps-senior-pass",
+      "name": "National Park Service Senior Pass",
+      "category": "discounts",
+      "cost": "Free",
+      "costDetail": "Low one-time fee ($20 annual or $80 lifetime); entry to many parks is free with the pass",
+      "description": "America the Beautiful Senior Pass for U.S. citizens and permanent residents 62+, providing entry to national parks and federal recreation sites.",
+      "whoItHelps": "Seniors 62+ who visit national parks",
+      "howToAccess": "Buy online at store.usgs.gov/pass or in person at a participating park.",
+      "link": "https://www.nps.gov/planyourvisit/passes.htm",
+      "tags": ["national parks", "senior pass", "recreation", "federal lands", "62+"]
+    },
+    {
+      "id": "amtrak-senior",
+      "name": "Amtrak Senior Discount",
+      "category": "discounts",
+      "cost": "Free",
+      "costDetail": "Free to qualify; 10% off most fares for seniors 65+",
+      "description": "10% discount on most Amtrak fares for passengers 65 and older.",
+      "whoItHelps": "Train travelers 65+",
+      "howToAccess": "Book at amtrak.com and select the senior discount; proof of age may be required.",
+      "link": "https://www.amtrak.com/",
+      "tags": ["Amtrak", "train travel", "senior discount", "65+", "10% off"]
+    },
+    {
+      "id": "retail-senior-discounts",
+      "name": "Retail Senior Discounts (Official Store Policies)",
+      "category": "discounts",
+      "cost": "Free",
+      "costDetail": "Free to ask; discounts vary by store and location",
+      "description": "Many grocery, pharmacy, and retail chains offer senior discount days or everyday savings — check each store's official policy.",
+      "whoItHelps": "Seniors shopping at participating stores",
+      "howToAccess": "Ask customer service at your local store or check the store's official website for senior discount days.",
+      "link": "https://www.usa.gov/",
+      "tags": ["retail discounts", "grocery", "pharmacy", "senior day", "savings"]
+    }
+  ],
+  "groups": {
+    "byCategory": [
+      {
+        "id": "benefits",
+        "label": "Benefits & assistance",
+        "toolIds": [
+          "ssa-retirement", "medicare", "medicaid", "benefits-gov",
+          "eldercare-locator", "snap", "liheap", "va-benefits"
+        ]
+      },
+      {
+        "id": "tech-classes",
+        "label": "Tech classes",
+        "toolIds": ["senior-planet", "gcfglobal", "digitallearn", "aarp-tek"]
+      },
+      {
+        "id": "legal-aid",
+        "label": "Legal aid",
+        "toolIds": ["lsc", "lawhelp", "probono-net", "nelf"]
+      },
+      {
+        "id": "health-info",
+        "label": "Health info",
+        "toolIds": ["medlineplus", "nia-nih", "cdc", "healthcare-gov"]
+      },
+      {
+        "id": "discounts",
+        "label": "Discounts & savings",
+        "toolIds": ["aarp-discounts", "nps-senior-pass", "amtrak-senior", "retail-senior-discounts"]
+      }
+    ]
+  }
+}
